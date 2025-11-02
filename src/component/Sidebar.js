@@ -39,31 +39,31 @@ const menuItems = [
     label:'Logout',
 },
 
-{
-    key:"Demo1screen",
-    icon:<HomeFilled/>,
-    label:'Demo1screen',
-},
-{
-    key:"Newscreen",
-    icon:<FileOutlined/>,
-    label:'Newscreen',
-},
-{
-    key:"Profile",
-    icon:<ProfileFilled/>,
-    label:'Peofile',
-},
-{
-    key:"From",
-    icon:<CarFilled/>,
-    label:'From',
-},
-{
-    key:"Carousel",
-    icon:<WalletFilled/>,
-    label:'Carousel',
-},
+// {
+//     key:"Demo1screen",
+//     icon:<HomeFilled/>,
+//     label:'Demo1screen',
+// },
+// {
+//     key:"Newscreen",
+//     icon:<FileOutlined/>,
+//     label:'Newscreen',
+// },
+// {
+//     key:"Profile",
+//     icon:<ProfileFilled/>,
+//     label:'Peofile',
+// },
+// {
+//     key:"From",
+//     icon:<CarFilled/>,
+//     label:'From',
+// },
+// {
+//     key:"Carousel",
+//     icon:<WalletFilled/>,
+//     label:'Carousel',
+// },
 ];
 
 const handleMenuClick = ({ key }) => {
